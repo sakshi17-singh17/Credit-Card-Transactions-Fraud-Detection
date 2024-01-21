@@ -13,7 +13,7 @@ The project will utilize a publicly available dataset from Kaggle, containing an
 * Address any missing values and assess the distribution of classes.
 * Perform exploratory data analysis to gain insights into the characteristics of legitimate and fraudulent transactions.
 
-2.Feature Engineering:
+2. Feature Engineering:
 * Extract meaningful features from the transaction data.
 * Explore the creation of new features that could enhance the model's ability to detect fraud.
 * Investigate time-based features, transaction patterns, and customer behavior.
